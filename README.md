@@ -18,7 +18,7 @@ Os dados brutos utilizados neste projeto são públicos e podem ser encontrados 
 ## 📊 Principal Resultado
 A análise identificou padrões claros de produtividade ao longo do ano. O gráfico abaixo demonstra a variação da produtividade da Soja (Glycine max), a principal cultura do dataset, em relação à temperatura média de cada estação, confirmando a **Primavera** como a estação mais produtiva.
 
-![Gráfico de Produtividade vs. Temperatura para Soja]<img width="4200" height="2400" alt="grafico_sazonal_Glycine_max_(L)_Merr" src="https://github.com/user-attachments/assets/47ef068b-3597-4166-8fe8-d9da3c599b97" />
+<img width="4200" height="2400" alt="grafico_sazonal_Glycine_max_(L)_Merr" src="https://github.com/user-attachments/assets/47ef068b-3597-4166-8fe8-d9da3c599b97" />
 
 ## 📁 Arquivos do Projeto
 * **/relatorio_profissional.pdf:** O relatório final completo em formato PDF, contendo um resumo das 10 principais culturas e uma análise aprofundada, com gráficos e recomendações, para cada uma das 3 mais relevantes.
