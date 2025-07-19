@@ -1,4 +1,4 @@
-# Análise de Sazonalidade para Produção de Sementes no Brasil
+# Análise de Sazonalidade e Clima na Produção de Sementes no Brasil com Python + Power Query
 
 Este projeto realiza um ciclo completo de análise de dados para identificar como padrões sazonais e climáticos impactam a produtividade agrícola no Brasil. O objetivo é transformar dados brutos do governo em insights acionáveis para produtores de sementes, utilizando um fluxo de trabalho híbrido com Python e Power Query.
 
